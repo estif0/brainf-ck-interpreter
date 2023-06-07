@@ -75,6 +75,8 @@ This project is licensed under the terms of the [MIT License](LICENSE). You are 
 
 ---
 
+For those who want to embrace the name of this language, here is an alternative README. Enjoy!
+
 ßrainf-ck-Interpreter �� #
 
 ᴎoʜƚʏꟼ ᴎi ɿɘƚɘɿqɿɘƚᴎI ʞɔ-Ꮈᴎiɒɿᙠ A
